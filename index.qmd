@@ -475,11 +475,11 @@ Exemple avec `Python` {{< fa brands python >}} ([Sujet d'analyse textuelle](http
 
 ## Aide-mémoire `S3`
 
-Voir <https://pythonds.linogaliana.fr/reads3/>
+Voir <https://pythonds.linogaliana.fr/content/modern-ds/s3.html>
 
 ## `Git`
 
-Voir <https://pythonds.linogaliana.fr/exogit/>
+Voir <https://pythonds.linogaliana.fr/content/git/exogit.html>
 
 ## Questions
 
