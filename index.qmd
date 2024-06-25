@@ -482,3 +482,27 @@ Voir <https://pythonds.linogaliana.fr/reads3/>
 Voir <https://pythonds.linogaliana.fr/exogit/>
 
 ## Questions
+
+
+## Le funathon est en cours
+
+- Vous pouvez rejoindre les salles de répartition sur Zoom en fonction des sujets
+- Vous pouvez poser vos questions sur Tchap
+
+![](https://minio.lab.sspcloud.fr/lgaliana/generative-art/pythonds/waiting_pokemon.jfif){width="30%" fig-align="center"}
+
+
+## Le funathon est en cours (assistance en pause)
+
+- Les assistants aussi ont besoin d'une pause café
+
+![](https://minio.lab.sspcloud.fr/lgaliana/generative-art/pythonds/cafe_pokemon.jfif){width="30%" fig-align="center"}
+
+
+## Le funathon est en cours (pause déjeuner)
+
+- N'oubliez pas d'aller manger
+
+![](https://minio.lab.sspcloud.fr/lgaliana/generative-art/pythonds/eat_pokemon.jfif){width="30%" fig-align="center"}
+
+
